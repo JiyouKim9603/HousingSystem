@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6331a255504e0a84abf29ec1a454d0d2, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  objectData:
+  - <Name>k__BackingField: Chair
+    <ID>k__BackingField: 1
+    <Icon>k__BackingField: {fileID: 21300000, guid: 15e0fac95d4b34648ac58df23c1c3ab6, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2809764744841757850, guid: 8cab0b177c2c6374085e157f28a0f22d, type: 3}
+  - <Name>k__BackingField: Lamp
+    <ID>k__BackingField: 2
+    <Icon>k__BackingField: {fileID: 21300000, guid: 3ba16ec5f57502d4795ab738592b0ba9, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6072465675766165868, guid: 1f9a9de69ef77ca489989d707357d71d, type: 3}
+  - <Name>k__BackingField: Fridge
+    <ID>k__BackingField: 3
+    <Icon>k__BackingField: {fileID: 21300000, guid: a99dc1af839e2064491113cbde9e59f4, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 560073640984905141, guid: b39213823adf46243ab5d19f541fc034, type: 3}
+  - <Name>k__BackingField: Bad
+    <ID>k__BackingField: 4
+    <Icon>k__BackingField: {fileID: 21300000, guid: f858a13429a91d741a6381c2d561a1ba, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8181786757707061538, guid: 267de658faa65bf4d8bf2409068eed2b, type: 3}
+  - <Name>k__BackingField: Plant
+    <ID>k__BackingField: 5
+    <Icon>k__BackingField: {fileID: 21300000, guid: 04eeec28e9ecdef4b885cc1b54be560d, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5267295845690487709, guid: d056bcb1621de744a8efcbf7fd45cd07, type: 3}
+  - <Name>k__BackingField: Chair1
+    <ID>k__BackingField: 6
+    <Icon>k__BackingField: {fileID: 21300000, guid: d9683e8fddbc71f429b90c0ed9727b7f, type: 3}
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8910293004075133368, guid: 9097325063a4ef44c83418e7f605b387, type: 3}
+  - <Name>k__BackingField: windmill
+    <ID>k__BackingField: 7
+    <Icon>k__BackingField: {fileID: 21300000, guid: d633b7b11b51e23408cbdde7c4564913, type: 3}
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 1518237582378397981, guid: 37cd9c106c0b6234fbc7138659d36fd9, type: 3}
+  - <Name>k__BackingField: hospital
+    <ID>k__BackingField: 8
+    <Icon>k__BackingField: {fileID: 21300000, guid: 4e613d7715235ab4fa854418596c57eb, type: 3}
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 3046409096809361745, guid: b131a69ee2406a54ab1b1042c3b35fa9, type: 3}

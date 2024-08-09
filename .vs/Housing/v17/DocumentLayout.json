@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\assets\\script\\griddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\griddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\assets\\script\\placementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\placementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|c:\\users\\jiyou\\desktop\\game foundation\\housing\\assets\\script\\samplebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\samplebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\assets\\script\\objectsdatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6747001-E45F-258C-3524-9AA39996AD1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectsdatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlacementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\PlacementSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlacementSystem.cs",
+              "ToolTip": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\PlacementSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\PlacementSystem.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAvwF0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:52:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleButton.cs",
+              "DocumentMoniker": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\SampleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SampleButton.cs",
+              "ToolTip": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\SampleButton.cs",
+              "RelativeToolTip": "Assets\\Script\\SampleButton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:36:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridData.cs",
+              "DocumentMoniker": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\GridData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GridData.cs",
+              "ToolTip": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\GridData.cs",
+              "RelativeToolTip": "Assets\\Script\\GridData.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:34:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectsDatabaseSO.cs",
+              "DocumentMoniker": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\ObjectsDatabaseSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ObjectsDatabaseSO.cs",
+              "ToolTip": "C:\\Users\\jiyou\\Desktop\\Game Foundation\\Housing\\Assets\\Script\\ObjectsDatabaseSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ObjectsDatabaseSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:35:01.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
